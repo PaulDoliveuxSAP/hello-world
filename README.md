@@ -1,2 +1,3 @@
 # hello-world
-Leraning GitHub
+Learning GitHub
+--Paul--
